@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuriyaPrasath05
 - 👀 I’m interested in ... C Programming
 - 🌱 I’m currently learning ... B.Sc (IT)
-- 💞️ I’m looking to collaborate on ...C Debugging
+- 💞️ I’m looking to collaborate on ...Smart C Programmers
 - 📫 How to reach me ...suriyaprasad2002@hotmail.com
 
 
